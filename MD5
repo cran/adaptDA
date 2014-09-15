@@ -1,0 +1,10 @@
+42bb7e6bf06f6f29a5d47812057970a9 *DESCRIPTION
+c3fb8efae48188b71ec4e21711b1e90a *NAMESPACE
+94efdfded192b4c85d6adbc29ee83a23 *R/adaptDA-internal.R
+08ea3c0bbdd73012867f0a10614984b6 *R/amdai.R
+88d75267e15b3e15eed686210518493a *R/amdat.R
+e8f270fe48c2aa0e41d5cb92807d4583 *R/predict.amdai.R
+6d8fa0c0bed33faea54b0796b8a48322 *man/adaptDA-package.Rd
+75d7ef75f76aa034d0566921c919b323 *man/amdai.Rd
+155cf72ed242c68c2d3e4402f1c01551 *man/amdat.Rd
+c39e67234e59ac2984540c3a358355e5 *man/predict.amdai.Rd
